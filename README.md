@@ -47,25 +47,11 @@ This project demonstrates automatic vehicle number plate detection using **Pytho
 
 ---
 
-## 📷 Example (Optional)
-
-> You can add before/after screenshots of the detection output here.
-
----
-
 ## 📚 Future Enhancements
 
 - Train with custom datasets for Indian number plate formats.
 - Add real-time video feed processing.
 - Deploy as a web application using Flask or Streamlit.
-
----
-
-## 👩‍💻 Author
-
-**Dimple**  
-B.E. CSE | Naan Mudhalvan Project 2025  
-[LinkedIn Profile] (optional)
 
 ---
 
